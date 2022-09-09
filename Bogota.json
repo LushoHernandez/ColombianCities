@@ -1,0 +1,442 @@
+[
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "ddcf1fe3081c909c70ac4b510b5abec8ce8a2fcc",
+    "fields": {
+      "cod": 12,
+      "gp": [
+        -74.084,
+        4.6664
+      ],
+      "latitud": 4.6664,
+      "longitud": -74.084,
+      "localidad": "BARRIOS UNIDOS"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.6664,
+        -74.084
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "3e8fb384bcb276c65f4770c82c18d4a26e42f1c8",
+    "fields": {
+      "cod": 10,
+      "gp": [
+        -74.1072,
+        4.7071000000000005
+      ],
+      "latitud": 4.7071000000000005,
+      "longitud": -74.1072,
+      "localidad": "ENGATIVÁ"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.7071000000000005,
+        -74.1072
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "e3638db5c4b8cc7dec59dc8b14aa4fb91394141f",
+    "fields": {
+      "cod": 20,
+      "gp": [
+        -74.315224,
+        4.034746
+      ],
+      "latitud": 4.034746,
+      "longitud": -74.315224,
+      "localidad": "SUMAPAZ"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.034746,
+        -74.315224
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "0a83bd2e1d302143eb9f7f70379187f0f5afa571",
+    "fields": {
+      "cod": 13,
+      "gp": [
+        -74.0938,
+        4.6448
+      ],
+      "latitud": 4.6448,
+      "longitud": -74.0938,
+      "localidad": "TEUSAQUILLO"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.6448,
+        -74.0938
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "39e2d6486e17b6af8b06a7b93284f0742c532aff",
+    "fields": {
+      "cod": 17,
+      "gp": [
+        -74.0739,
+        4.5939
+      ],
+      "latitud": 4.5939,
+      "longitud": -74.0739,
+      "localidad": "LA CANDELARIA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.5939,
+        -74.0739
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "a852cbe14e7bb27eb3fe8e91d496d1eaa9a3aa07",
+    "fields": {
+      "cod": 3,
+      "gp": [
+        -74.0298,
+        4.5963
+      ],
+      "latitud": 4.5963,
+      "longitud": -74.0298,
+      "localidad": "SANTA FE"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.5963,
+        -74.0298
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "80283404c7bbf6ae284265c1d21cb954320bf5eb",
+    "fields": {
+      "cod": 11,
+      "gp": [
+        -74.0824,
+        4.7652
+      ],
+      "latitud": 4.7652,
+      "longitud": -74.0824,
+      "localidad": "SUBA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.7652,
+        -74.0824
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "d6c9899d205ea0e1c996c8bea8831a54fc147223",
+    "fields": {
+      "cod": 9,
+      "gp": [
+        -74.1479,
+        4.6832
+      ],
+      "latitud": 4.6832,
+      "longitud": -74.1479,
+      "localidad": "FONTIBÓN"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.6832,
+        -74.1479
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "2db1fbb6311ec3db11f9efe749328187daa3663c",
+    "fields": {
+      "cod": 14,
+      "gp": [
+        -74.0913,
+        4.603
+      ],
+      "latitud": 4.603,
+      "longitud": -74.0913,
+      "localidad": "LOS MÁRTIRES"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.603,
+        -74.0913
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "46dcb048072951214f63545ff3f73817b73cc883",
+    "fields": {
+      "cod": 4,
+      "gp": [
+        -74.0883,
+        4.5463000000000005
+      ],
+      "latitud": 4.5463000000000005,
+      "longitud": -74.0883,
+      "localidad": "SAN CRISTOBAL"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.5463000000000005,
+        -74.0883
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "c2cd4742ffa72bda9c65f18a307d85c22ac335a9",
+    "fields": {
+      "cod": 5,
+      "gp": [
+        -74.1033,
+        4.4766
+      ],
+      "latitud": 4.4766,
+      "longitud": -74.1033,
+      "localidad": "USME"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.4766,
+        -74.1033
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "23b40e972da2bc0fe9868dfb89e0721168652336",
+    "fields": {
+      "cod": 16,
+      "gp": [
+        -74.1227,
+        4.6149000000000004
+      ],
+      "latitud": 4.6149000000000004,
+      "longitud": -74.1227,
+      "localidad": "PUENTE ARANDA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.6149000000000004,
+        -74.1227
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "52eaa0ac64e69fbdcad6118fb02c3ee3128492e6",
+    "fields": {
+      "cod": 1,
+      "gp": [
+        -74.0312,
+        4.7485
+      ],
+      "latitud": 4.7485,
+      "longitud": -74.0312,
+      "localidad": "USAQUÉN"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.7485,
+        -74.0312
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "9f67c273d0256cbbc83c81f076e25b963c3a6f14",
+    "fields": {
+      "cod": 7,
+      "gp": [
+        -74.1945,
+        4.6305
+      ],
+      "latitud": 4.6305,
+      "longitud": -74.1945,
+      "localidad": "BOSA"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.6305,
+        -74.1945
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "cd67a456cf7d9a65894c83e2b04322bad4f13461",
+    "fields": {
+      "cod": 19,
+      "gp": [
+        -74.1539,
+        4.5066
+      ],
+      "latitud": 4.5066,
+      "longitud": -74.1539,
+      "localidad": "CIUDAD BOLÍVAR"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.5066,
+        -74.1539
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "785282f2d5de1f4d0506678ec64bc6018be8b917",
+    "fields": {
+      "cod": 18,
+      "gp": [
+        -74.1164,
+        4.5653
+      ],
+      "latitud": 4.5653,
+      "longitud": -74.1164,
+      "localidad": "RAFAEL URIBE URIBE"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.5653,
+        -74.1164
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "1acab1e9068edc21b4ada74c21bab09b1b97ca4a",
+    "fields": {
+      "cod": 8,
+      "gp": [
+        -74.1573,
+        4.6268
+      ],
+      "latitud": 4.6268,
+      "longitud": -74.1573,
+      "localidad": "KENNEDY"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.6268,
+        -74.1573
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "cb5bfd802caa03187e24acd15118474a9de5adc1",
+    "fields": {
+      "cod": 2,
+      "gp": [
+        -74.0467,
+        4.6569
+      ],
+      "latitud": 4.6569,
+      "longitud": -74.0467,
+      "localidad": "CHAPINERO"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.6569,
+        -74.0467
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "af8f70dd0c2d741a54733bd6734cb4efec835253",
+    "fields": {
+      "cod": 6,
+      "gp": [
+        -74.1407,
+        4.5875
+      ],
+      "latitud": 4.5875,
+      "longitud": -74.1407,
+      "localidad": "TUNJUELITO"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.5875,
+        -74.1407
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  },
+  {
+    "datasetid": "georeferencia-puntual-por-localidad",
+    "recordid": "6095ebbc03c1cb4c82454c3a4757f4a9e9ba6a5d",
+    "fields": {
+      "cod": 15,
+      "gp": [
+        -74.1009,
+        4.5486
+      ],
+      "latitud": 4.5486,
+      "longitud": -74.1009,
+      "localidad": "ANTONIO NARIÑO"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.5486,
+        -74.1009
+      ]
+    },
+    "record_timestamp": "2016-11-01T01:07:10.703-05:00"
+  }
+]
